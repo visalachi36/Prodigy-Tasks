@@ -21,7 +21,7 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Python:** Core programming language.
       - **Pandas:** For data manipulation and analysis.
       - **Matplotlib:** For creating visualizations.
-   - **Location**: [Population Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task1)
+   - **Location**: [Population Analysis and Visualization](https://github.com/visalachi36/Prodigy-Tasks/tree/main/TASK-1)
 
 2. **Task 2: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)]**
    - **Description**: This project performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The goal is to clean the dataset by handling missing values, dropping unnecessary columns, and exploring the relationships between variables to identify patterns and trends.
@@ -29,7 +29,7 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Pandas:** For data manipulation and analysis.
       - **Matplotlib:** For creating visualizations.
       - **Seaborn:** To form Statistical Data Visualization
-   - **Location**: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task2)
+   - **Location**: [Titanic Data Cleaning and Exploratory Data Analysis (EDA)](https://github.com/visalachi36/Prodigy-Tasks/tree/main/TASK-2)
 
 3. **Task 3: [Bank Marketing Dataset Classification Using Decision Tree]**
    - **Description**: This project implements a decision tree classifier on the Bank Marketing dataset. The objective is to predict whether a customer will subscribe to a term deposit based on their demographic and behavioral data. The project also addresses data preprocessing, including handling categorical variables and addressing class imbalance, and evaluates the model's performance with metrics such as precision, recall, and accuracy.
@@ -37,7 +37,7 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Pandas:** For data loading, cleaning, and manipulation.
       - **Scikit-learn:** For model building, training, and evaluation.
       - **DecisionTreeClassifier:** To classify the target variable based on input features.
-   - **Location**: [Bank Marketing Dataset Classification Using Decision Tree](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task3)
+   - **Location**: [Bank Marketing Dataset Classification Using Decision Tree](https://github.com/visalachi36/Prodigy-Tasks/tree/main/TASK-3)
 
 4. **Task 4: [Social Media Sentiment Analysis and Visualization]**
    - **Description**: This project analyzes and visualizes **sentiment patterns in social media data** to understand public opinion and attitudes towards specific topics or brands. The goal is to extract insights from social media posts, identify sentiment (positive, negative, neutral), and provide visualizations to showcase public sentiment trends.
@@ -46,7 +46,7 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Text Preprocessing**: Cleaning and preparing the text data for analysis.
       - **Sentiment Analysis**: Analyzing sentiment using predefined categories.
       - **Data Visualization**: Visualizing sentiment trends and patterns.
-   - **Location**: [Social Media Sentiment Analysis and Visualization](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task4)
+   - **Location**: [Social Media Sentiment Analysis and Visualization](https://github.com/visalachi36/Prodigy-Tasks/tree/main/TASK-4)
 
 5. **Task 5: [Traffic Accident Data Analysis]**
    - **Description**: This project analyzes traffic accident data to identify patterns and visualize contributing factors such as road conditions, weather, and time of day. It aims to uncover accident hotspots and provide actionable insights for improving road safety.
@@ -55,7 +55,7 @@ The tasks are designed to showcase various technical and problem-solving skills,
       - **Trend Analysis**: Exploring accident data over time.
       - **Geospatial Analysis**: Visualizing accident hotspots using maps (if location data is available).
       - **Data Visualization**: Libraries like Matplotlib and Seaborn for creating insightful charts and graphs.
-   - **Location**: [Traffic Accident Data Analysis](https://github.com/Niranjan-NN/prodigy-Tasks/tree/main/task5)
+   - **Location**: [Traffic Accident Data Analysis](https://github.com/visalachi36/Prodigy-Tasks/tree/main/TASK-1)
 
 ---
 
